@@ -252,7 +252,7 @@ const projects: Project[] = [
       return (
         <div>
           <TypographyP className="font-mono ">
-            Rezerve is a feature-rich mobile app designed for seamless salon bookings in Poland. Built with Flutter, it offers a smooth iOS & Android experience.
+            Rezerve is a feature-rich mobile app designed for seamless salon bookings in Poland. Built with React Native, it offers a smooth iOS & Android experience.
           </TypographyP>
           <TypographyP className="font-mono ">
             Our team handled full-cycle mobile app development, from UI/UX design to backend integration, ensuring a seamless experience. Key features include:
@@ -267,7 +267,7 @@ const projects: Project[] = [
             - Real-Time Notifications – Reduce no-shows with automated alerts.
           </p>
           <TypographyP className="font-mono ">
-            Flutter App Development – Android App Development - iOS App Development – Laravel - Firebase
+            React Native App Development – Android App Development - iOS App Development – Laravel - Firebase
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
           <TypographyH3 className="my-4 mt-8">Screenshot 1</TypographyH3>
@@ -380,10 +380,10 @@ const projects: Project[] = [
             - Cloud Sync & Reminders – Never miss a step in your trading routine
           </p>
           <TypographyP className="font-mono ">
-          I developed the full mobile app, integrating Flutter, Laravel, Firebase, and real-time trade analytics to help traders stay disciplined & profitable! 
+          I developed the full mobile app, integrating React Native, Laravel, Firebase, and real-time trade analytics to help traders stay disciplined & profitable! 
           </TypographyP>
           <TypographyP className="font-mono ">
-            Flutter App Development – Android App Development - iOS App Development – Laravel - Figma - UI/UX
+            React Native App Development – Android App Development - iOS App Development – Laravel - Figma - UI/UX
           </TypographyP>
           <TypographyH3 className="my-4 mt-8">Screenshot 1</TypographyH3>
           <SlideShow
